@@ -1,0 +1,7 @@
+###
+
+GET http://localhost:8888/config/microservice1/develop/develop
+
+###
+
+GET http://localhost:8888/config/microservice1/main/main
